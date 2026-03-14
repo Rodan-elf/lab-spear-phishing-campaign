@@ -1,5 +1,5 @@
 # Spear Phishing Campaign
-### Red Team Exercise — Social Engineering Lab
+### Red Team Exercise (Social Engineering Lab)
 
 > **Rules of Engagement**
 > No actual emails were sent · No real or malicious payloads were created · Conducted in a controlled environment for educational purposes only.
@@ -10,8 +10,8 @@
 
 1. [Lab Objective](#lab-objective)
 2. [Scenario & Intel Package](#scenario--intel-package)
-3. [My Approach — Why I Rejected Classic Spear Phishing](#my-approach--why-i-rejected-classic-spear-phishing)
-4. [Target Profile — Alice](#target-profile--alice)
+3. [My Approach > Why I Rejected Classic Spear Phishing](#my-approach--why-i-rejected-classic-spear-phishing)
+4. [Target Profile > Alice](#target-profile--alice)
 5. [Operation: The Grateful Client](#operation-the-grateful-client)
 6. [Email Sequence](#email-sequence)
 7. [Follow-Up Actions Post-Compromise](#follow-up-actions-post-compromise)
@@ -43,7 +43,7 @@ The objective of this exercise is to think through how an attacker would approac
 
 ---
 
-## My Approach — Why I Rejected Classic Spear Phishing
+## My Approach > Why I Rejected Classic Spear Phishing
 
 I have a background in e-commerce and a small experience in business, so this exercise spoke directly to me. My first instinct was to look at the problem the way a business owner would: **what's the ROI of my attack vector?**
 
@@ -59,7 +59,7 @@ This led me to design a **pull-based, long-con social engineering campaign** —
 
 ---
 
-## Target Profile — Alice
+## Target Profile > Alice
 
 ```
 Name     : Alice
