@@ -307,3 +307,5 @@ The parts I'd want to develop further:
 ---
 
 *All scenarios, companies, and individuals are fictional. No real infrastructure was created or used.*
+
+![Reflections mind map](mindmap-byGemini.png)
